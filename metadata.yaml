@@ -1,0 +1,42 @@
+_repo: The-Canary-Islands_66355
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Du Cane, Ella
+    alias: Cane, Ella Du
+    birthdate: 1874
+    deathdate: 1943
+    gutenberg_agent_id: '34838'
+    url: http://www.gutenberg.org/2009/agents/34838
+    wikipedia: https://en.wikipedia.org/wiki/Ella_Du_Cane
+creator:
+  author:
+    agent_name: Du Cane, Florence
+    alias: Cane, Florence Du
+    birthdate: 1869
+    deathdate: 1955
+    gutenberg_agent_id: '48744'
+    url: http://www.gutenberg.org/2009/agents/48744
+description: ''
+gutenberg_issued: '2021-09-21'
+identifiers:
+  gutenberg: '66355'
+  lccn: '12035363'
+language: en
+pgterms:marc904: https://archive.org/details/canaryislands
+pgterms:marc905: 20210625201518ducane
+pgterms:marc906: '1911'
+pgterms:marc907: uk
+production_note: Fay Dunn, Fiona Holmes and the Online Distributed Proofreading Team
+  at http://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: uk :A. and C. Black Ltd.,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canary Islands -- Description and travel'
+- !lcc 'DP'
+- GITenberg
+title: The Canary Islands
+url: http://www.gutenberg.org/ebooks/66355
