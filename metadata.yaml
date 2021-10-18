@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '34838'
     url: http://www.gutenberg.org/2009/agents/34838
     wikipedia: https://en.wikipedia.org/wiki/Ella_Du_Cane
+covers:
+- cover_type: archival
+  image_path: 66355-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Du Cane, Florence
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '48744'
     url: http://www.gutenberg.org/2009/agents/48744
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66355#The-Canary-Islands
 gutenberg_issued: '2021-09-21'
 identifiers:
   gutenberg: '66355'
